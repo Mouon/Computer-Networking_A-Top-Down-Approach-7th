@@ -3,7 +3,7 @@
 > **“컴퓨터 네트워킹: 하향식 접근 (제7판)”**  
 > 을 읽고 정리하는 레포지입니다.  
 
-![이미지](https://github.com/user-attachments/assets/a4f611a3-dd6e-41cd-ae66-60fbd8325af5)
+![90F5997D-019A-4EDE-9313-B5C62590BDD0](https://github.com/user-attachments/assets/2ce373c6-927b-4ab6-b8e9-2dd61411e1c8)
 
 "망했다"  
 그 직감 하나로 시작한 컴네 스터디입니다.
