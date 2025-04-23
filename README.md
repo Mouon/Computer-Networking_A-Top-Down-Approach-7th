@@ -5,8 +5,7 @@
 
 ![이미지](https://github.com/user-attachments/assets/a4f611a3-dd6e-41cd-ae66-60fbd8325af5)
 
-침대에 누워,  
-"어떡하냐 나 망했다 나"  
+"망했다"  
 그 직감 하나로 시작한 컴네 스터디입니다.
 
 
